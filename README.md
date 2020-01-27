@@ -1,3 +1,3 @@
-# emoji-analysis
+# Emoji Analysis by Data Analytics Centre 
 
-![Emoji Analysis](emoji-analysis.png)
+![Emoji Analysis](image/emoji-analysis.png)
